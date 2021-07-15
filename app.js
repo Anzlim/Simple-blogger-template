@@ -12,7 +12,8 @@ let colorsMap = new Map([
     ["css",   "#ea9fac"],
     ["Linux",  "#dd4814"],
     ["aws", "#232f3e"],
-    ["ionic", "#2b5399"]
+    ["ionic", "#2b5399"],
+    ["AppSync", "#cc1924"]
     ]);
 
 
